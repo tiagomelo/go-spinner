@@ -1,5 +1,7 @@
 # go-spinner
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-spinner.svg)](https://pkg.go.dev/github.com/tiagomelo/go-spinner)
+
 ![logo](doc/go-spinner.png)
 
 `go-spinner` is a simple and customizable spinner component for CLI applications written in Go. It provides a visual indicator for long-running tasks, making your command-line tools more user-friendly.
